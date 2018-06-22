@@ -36,4 +36,4 @@ repositories {
     mavenCentral()
 }
 
-apply from: 'install.gradle'
+//apply from: 'install.gradle'
